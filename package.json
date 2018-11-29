@@ -1,6 +1,6 @@
 {
   "name": "@gigwalk/backbone-recursive-tojson",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": {
     "name": "Paul Tondeur",
     "email": "paul@paultondeur.nl",
